@@ -1,0 +1,7 @@
+displayName:"NameMod" //Название мод
+name: "mod_id" //[id]Айди мода
+description: "Description"  //Описание мода
+author: "Lehanchic25"
+version: "Alfa 0.1"
+minGameVersion: 126.2
+hidden: false
