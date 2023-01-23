@@ -1,0 +1,9 @@
+{
+ "type": "material",
+ "name": "Compressed rainbow",
+ "description": "Wow"
+ "hardness": 3,
+ "cost": 2.0
+ "color": "900020",
+ "tier": 2
+}
