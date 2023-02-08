@@ -12,7 +12,6 @@ plans: [
   ]
   time: 785
   }
-  {
 ]
 consumes: {
 power: 1.5
