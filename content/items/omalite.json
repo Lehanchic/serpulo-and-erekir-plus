@@ -1,0 +1,9 @@
+{
+ "type": "material",
+ "name": "Omalite",
+ "description": "-"
+ "hardness": 3,
+ "cost": 2.0
+ "color": "7DF9FF",
+ "tier": 2
+}
