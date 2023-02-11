@@ -21,7 +21,7 @@
     //},
 
     research: {
-        parent: ,
+        parent: core-nucleus,
         requirements: [
             copper/100000,
             lead/80000,
