@@ -2,7 +2,7 @@
     type: "CoreBlock",
     category: "effect",
 
-    name: "Hawk Core"
+    name: "Hawk Core",
     size: 6,
     health: 12000,
     itemCapacity: 26000,
@@ -28,7 +28,7 @@
             thorium/50000,
             silicon/90000,
             compressed-rainbow/6500
-]
+    ],
         root: true,
         name: "Serpulo",
         planet: "serpulo",
