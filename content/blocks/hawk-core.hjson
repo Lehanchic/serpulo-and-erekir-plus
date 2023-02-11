@@ -1,0 +1,44 @@
+{
+    type: "CoreBlock",
+    category: "effect",
+
+    name: "Hawk Core"
+    size: 6,
+    health: 12000,
+    itemCapacity: 26000,
+    unitType: "gjallahorn",
+    alwaysUnlocked: false,
+
+// DEBUG TESTING STUFF
+    //hasPower: true,
+    //outputsPower: true,
+    //consumesPower: false,
+    //conductivePower: true,
+    //consPower: {
+    //    usage: -5,
+    //    capacity: 1000,
+    //    buffered: true
+    //},
+
+    research: {
+        parent: ,
+        requirements: [
+            copper/100000,
+            lead/80000,
+            thorium/50000,
+            silicon/90000,
+            compressed-rainbow/6500
+]
+        root: true,
+        name: "Serpulo",
+        planet: "serpulo",
+    },
+
+    requirements: [
+        copper/13000,
+        lead/13000,
+        thorium/8000,
+        silicon/10000,
+        compressed-rainbow/650
+    ]
+}
