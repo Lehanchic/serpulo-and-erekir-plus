@@ -7,7 +7,7 @@
     health: 12000,
     itemCapacity: 26000,
     unitType: "gjallahorn",
-    alwaysUnlocked: false,
+    alwaysUnlocked: true,
 
 // DEBUG TESTING STUFF
     //hasPower: true,
