@@ -8,7 +8,4 @@ parent: hawk-core,
 requirements: [
 silicon/24
 ]
-envDisabled: 16
 size: 2
-reload: 30
-group: wall
