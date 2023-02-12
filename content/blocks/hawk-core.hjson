@@ -29,7 +29,7 @@
             compressed-rainbow/6500
     ],
         root: true,
-        name: "Serpulo",
+        name: "Serpulo +",
         planet: "serpulo",
     },
 
