@@ -9,11 +9,9 @@
     unitType: "gjallahorn",
     alwaysUnlocked: true,
 
-{
         root: true,
         name: "Serpulo +"
         planet: "serpulo",
-    },
 
     requirements: [
         copper/13000,
