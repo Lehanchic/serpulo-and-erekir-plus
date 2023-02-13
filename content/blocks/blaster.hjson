@@ -32,7 +32,7 @@ ammoTypes:{
 }
 category: turret
 research: 
-   parent: "breach"
+   parent: "beryllium-wall"
         requirements:[
            graphite/1300,
            silicon/500,
