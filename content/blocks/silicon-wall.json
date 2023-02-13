@@ -5,11 +5,11 @@
  "health": 3000,
  "size": 2
  "research": {
-        "parent": "duo",
-        "requirements": [
-            "silicon/800"
-        ]
-    },
+ "parent": "duo",
+ "requirements": [
+  "silicon/800"
+]
+},
  "requirements": [
     {"item": "silicon", "amount": 24 }
  ],
