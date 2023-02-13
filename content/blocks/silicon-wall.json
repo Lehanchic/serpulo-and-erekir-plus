@@ -5,7 +5,7 @@
  "health": 3000,
  "size": 2
  "research": {
-        "parent": "serpulo",
+        "parent": "Serpulo +",
         "requirements": [
             "silicon/800"
         ]
