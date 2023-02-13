@@ -8,28 +8,9 @@
     itemCapacity: 26000,
     unitType: "gjallahorn",
     alwaysUnlocked: true,
-
-// DEBUG TESTING STUFF
-    //hasPower: true,
-    //outputsPower: true,
-    //consumesPower: false,
-    //conductivePower: true,
-    //consPower: {
-    //    usage: -5,
-    //    capacity: 1000,
-    //    buffered: true
-    //},
-
-    research: {
-        requirements: [
-            copper/100000,
-            lead/80000,
-            thorium/50000,
-            silicon/90000,
-            compressed-rainbow/6500
-    ],
+{
         root: true,
-        nams: "Serpulo +"
+        name: "Serpulo +"
         planet: "serpulo",
     },
 
