@@ -1,0 +1,44 @@
+{
+  "type": "GenericCrafter",
+  "name": "Creator berrylium",
+  "description": "Make berrylium in serpulo",
+  "health": 750,
+  "size": 2,
+"drawer": {
+"type": "DrawMulti"
+"drawers": [
+{
+"type": "DrawRegion",
+"suffix": "-bottom"
+},
+{
+"type": "DrawWeave"
+},
+{
+"type": "DrawDefault"
+},
+],
+},
+  "requirements": [
+    { "item": "lead", "amount": 100},
+	{ "item": "thorium", "amount": 120},
+	{ "item": "silicon", "amount": 125},
+  ],
+  "research": "phase-weaver",
+  "hasPower": true,
+  "hasItems": true,
+  "craftTime": 32,
+  "consumes": {
+    "power": 3,
+    "items": {
+			"items": [
+                "lead/2",
+                "plastanium/1"
+    ]
+  },
+  "updateEffect": "smeltsmoke",
+  "category": "crafting",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 20,
+  "outputItem": { "item": "berrylium", "amount": 1}
+}
