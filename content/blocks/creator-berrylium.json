@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
-  "name": "Creator berrylium",
-  "description": "Make berrylium in serpulo",
+  "name": "Creator beryllium",
+  "description": "Make beryllium in serpulo",
   "health": 750,
   "size": 2,
 "drawer": {
@@ -41,5 +41,5 @@
   "idleSoundVolume": 0.5,
   "itemCapacity": 20,
   "outputItem": 
-{"item":"berrylium","amount":1}
+{"item":"beryllium","amount":1}
 }
