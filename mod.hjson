@@ -2,7 +2,7 @@ displayName:"Serpulo and Erekir +"
 name: "serpulo and erekir"
 description: "English: [red]Adds new items, buildings, liquids to serpulo and erekir
 [white]Russian: [red]Добавляет новые предметы, постройки, жидкости для серпуло и эрекир"
-author: "[white]Leha[blue]nch[red]ic25"
+author: "Leha[#0000FF]nch[#FF1826]ic25"
 version: "alfa 0.0.2"
 minGameVersion: 136
 hidden: true
