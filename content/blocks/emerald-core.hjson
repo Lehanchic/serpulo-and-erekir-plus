@@ -2,27 +2,15 @@
     type: "CoreBlock",
     category: "effect",
 
-    name: "Emerald Core",
     size: 3,
     health: 6000,
     itemCapacity: 8000,
     unitType: "trident",
-    alwaysUnlocked: true,
     buildVisibility: "hidden",
 
-research: {
-        requirements: [
-            copper/130000,
-            lead/130000,
-            thorium/80000,
-            silicon/100000
-  ],
-}
-
-    requirements: [
-        copper/13000,
-        lead/13000,
-        thorium/8000,
-        silicon/10000
-    ]
+    research: {
+        root: true,
+        name: "Aeyama",
+        planet: "aeyama"
+    }
 }
