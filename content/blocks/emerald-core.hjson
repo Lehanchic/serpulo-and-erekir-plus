@@ -7,10 +7,11 @@
     health: 6000,
     itemCapacity: 8000,
     unitType: "trident",
-    alwaysUnlocked: false,
+    alwaysUnlocked: true,
     buildVisibility: "hidden",
 
 research: {
+        parent: "core-nucleus",
         requirements: [
             copper/130000,
             lead/130000,
@@ -18,4 +19,11 @@ research: {
             silicon/100000
   ],
 }
+
+    requirements: [
+        copper/13000,
+        lead/13000,
+        thorium/8000,
+        silicon/10000
+    ]
 }
