@@ -1,7 +1,7 @@
 {
     generator: "PlanetGenerator",
     parent: "sun",
-    iconColor: 3418FF,
+    iconColor: FFCC00,
     orbitRadius: 22,
     hasAtmosphere: true,
     updateLighting: false,
@@ -19,6 +19,19 @@
     allowSectorInvasion: false,
     radius: 1,
     hiddenItems: [
+        "copper",
+        "lead",
+        "scrap",
+        "graphite",
+        "coal",
+        "titanium",
+        "thorium",
+        "silicon",
+        "plastanium",
+        "phase-fabric",
+        "surge-alloy",
+        "spore-pod",
+        "sand",
         "blast-compound",
         "pyratite",
         "beryllium",
@@ -34,8 +47,8 @@
         divisions: 5,       //3         3
         radius: 0.9,        //0.12      0.8
         planet: "Duna",   //2         duna
-        color1: "3418FF",     //3418FF
-        color2: "1F75FE",     //1F75FE
+        color1: "FFDC33",     //FFDC33 
+        color2: "FFCC00",     //FFCC00 
         colorOct: 4, //i 1
         colorPersistence: 0.5, //f 0.5
         colorScale: 0.5, //f 1
