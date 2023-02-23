@@ -11,6 +11,6 @@
     research: {
         root: true,
         name: "Duna",
-        planet: "duna"
+        planet: "Duna"
     }
 }
