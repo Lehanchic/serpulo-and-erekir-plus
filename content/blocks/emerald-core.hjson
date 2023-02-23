@@ -2,6 +2,7 @@
     type: "CoreBlock",
     category: "effect",
 
+    name: "Emerald Core"
     size: 3,
     health: 6000,
     itemCapacity: 8000,
