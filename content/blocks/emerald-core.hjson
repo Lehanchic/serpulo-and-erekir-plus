@@ -1,6 +1,5 @@
 {
     type: "CoreBlock",
-    category: "effect",
 
     name: "Emerald Core"
     size: 3,
