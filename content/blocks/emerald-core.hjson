@@ -2,16 +2,15 @@
     type: "CoreBlock",
     category: "effect",
 
-    name: "Emerald core",
     size: 3,
-    health: 4000,
+    health: 6000,
     itemCapacity: 8000,
     unitType: "trident",
-    alwaysUnlocked: true,
+    buildVisibility: "hidden",
 
-research: {
-        requirements: [
-
-  ],
-}
+    research: {
+        root: true,
+        name: "Duna",
+        planet: "duna"
+    },
 }
