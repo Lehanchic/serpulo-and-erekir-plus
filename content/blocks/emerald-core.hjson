@@ -7,5 +7,9 @@
     itemCapacity: 8000,
     unitType: "trident",
     buildVisibility: "hidden",
+   "research": {
+        "requirements": [
 
+      ],
+   },
 }
