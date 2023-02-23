@@ -8,9 +8,4 @@
     unitType: "trident",
     buildVisibility: "hidden",
 
-    research: {
-        root: true,
-        name: "Duna",
-        planet: "duna"
-    },
 }
