@@ -1,0 +1,5 @@
+{
+    type: "Floor",
+    wall: "wall-tree",
+    variants: 3
+}

@@ -1,0 +1,5 @@
+{
+    type: "Floor",
+    wall: "wall-dirtb",
+    variants: 3
+}

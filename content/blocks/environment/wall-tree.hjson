@@ -1,0 +1,5 @@
+{
+    type: "StaticTree",
+    itemDrop: "item-wood",
+    variants: 16
+}
