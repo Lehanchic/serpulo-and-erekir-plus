@@ -10,7 +10,7 @@
 
     research: {
         root: true,
-        name: "Aeyama",
-        planet: "aeyama"
+        name: "Duna",
+        planet: "duna"
     }
 }
