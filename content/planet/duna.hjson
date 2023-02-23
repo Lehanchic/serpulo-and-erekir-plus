@@ -1,7 +1,7 @@
 {
     generator: "PlanetGenerator",
     parent: "sun",
-    iconColor: 158400,
+    iconColor: 3418FF,
     orbitRadius: 13,
     hasAtmosphere: true,
     updateLighting: false,
@@ -47,10 +47,9 @@
         seed: 262436,
         divisions: 5,       //3         3
         radius: 0.9,        //0.12      0.8
-        planet: "duna",   //2  
-duna    
-        color1: "1f75fe",     //1f75fe
-        color2: "3418ff",     //3418ff
+        planet: "duna",   //2         duna
+        color1: "158400",     //ff7a38    158400
+        color2: "7070ff",     //ff7a38    131316
         colorOct: 4, //i 1
         colorPersistence: 0.5, //f 0.5
         colorScale: 0.5, //f 1
