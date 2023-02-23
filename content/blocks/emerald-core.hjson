@@ -11,7 +11,6 @@
     buildVisibility: "hidden",
 
 research: {
-        parent: "core-nucleus",
         requirements: [
             copper/130000,
             lead/130000,
