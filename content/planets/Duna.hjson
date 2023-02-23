@@ -11,7 +11,7 @@
     drawOrbit: true,
     accessible: true,
     alwaysUnlocked: true,
-    defaultCore: "emerald-core",
+    defaultCore: "block-storage-core-drop-pod",
     sectorSeed: 5948,
     startSector: 0,
     sectorSize: 1,
