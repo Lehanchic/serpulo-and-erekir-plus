@@ -1,10 +1,9 @@
-{
-  type: UnitFactory
-  name: Flying Block Factory
-  health: 600
-  size: 3
-  plans: [
-    {
+type: UnitFactory
+name: Creator Solarbrutes
+health: 500
+size: 3
+plans: [
+  {
       unit: flying-mender
       requirements: [
         copper/25
@@ -22,13 +21,17 @@
       ],
       time: 65
     },
-   category: units
-   research: flying-factory
-   researchCostMultipcier: 5
-   requirements: [
-      copper/310
-      lead/200
-      graphite/50
-      silicon/30
-]
+  ]
+
+consumes: {
+power: 1.5
 }
+category: units
+research: ground-factory
+researchCostMultiplier: 10
+requirements: [
+  copper/300
+  lead/200
+  graphite/50
+  silicon/30
+]
