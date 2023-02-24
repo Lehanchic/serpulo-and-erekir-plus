@@ -1,0 +1,34 @@
+{
+  type: UnitFactory
+  name: Flying Block Factory
+  health: 600
+  size: 3
+  plans: [
+    {
+      unit: flying-mender
+      requirements: [
+        copper/25
+        lead/30
+      ],
+      time: 35
+    },
+    {
+      unit: flying-healer
+      requirements: [
+        copper/50
+        lead/100
+        titanium/25
+        silicon/40
+      ],
+      time: 65
+    },
+   category: units
+   research: flying-factory
+   researchCostMultipcier: 5
+   requirements: [
+      copper/310
+      lead/200
+      graphite/50
+      silicon/30
+]
+}
