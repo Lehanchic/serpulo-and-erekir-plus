@@ -20,7 +20,7 @@
         "instantDisappear": true,
         "damage": 1,
         "collidesTeam": true,
-        "healPercent": 12,
+        "healPercent": 7,
         "collidesAir": true,
         "collidesTiles": true,
         "splashDamageRadius": 40,
