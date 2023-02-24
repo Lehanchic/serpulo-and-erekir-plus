@@ -1,4 +1,5 @@
 {
+    name: "Wood"
     color: 5A9F5C,
 
     explosiveness: 0,

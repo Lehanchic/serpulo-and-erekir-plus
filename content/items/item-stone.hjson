@@ -1,6 +1,6 @@
 {
     // color: ,
-
+   name: "stone"
     explosiveness: 0,
     flammability: 0,
     radioactivity: 0,
