@@ -31,13 +31,7 @@ ammoTypes:{
     }
 }
 category: turret
-research: 
-   parent: "breach"
-        requirements:[
-           graphite/1300,
-           silicon/500,
-           beryllium/300
-]
+research: ecription
 drawer:{
  type: DrawTurret
  parts: [
@@ -52,7 +46,7 @@ x: 0
 
 }
 requirements: [
-    graphite/320,
-    silicon/275,
+    graphite/320
+    silicon/275
     beryllium/290
 ]
