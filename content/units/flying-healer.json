@@ -23,7 +23,7 @@
         "healPercent": 7,
         "collidesAir": true,
         "collidesTiles": true,
-        "splashDamageRadius": 91,
+        "splashDamageRadius": 81,
         "splashDamage": 1
       }
     }
