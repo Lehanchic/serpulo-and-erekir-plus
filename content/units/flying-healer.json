@@ -29,4 +29,6 @@
     }
   ],
   "research": "flying-turret-factory"
+  "engineOffset": 8,
+  "drawCell": false
 }
