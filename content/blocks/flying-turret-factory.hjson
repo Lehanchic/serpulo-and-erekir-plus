@@ -1,5 +1,5 @@
 type: UnitFactory
-name: Creator Solarbrutes
+name: Flying Turret Factory
 health: 500
 size: 3
 plans: [
