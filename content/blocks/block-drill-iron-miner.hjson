@@ -1,0 +1,39 @@
+{
+    type: "AttributeCrafter",
+    category: "production",
+    size: 2,
+    health: 600,
+
+    craftTime: 180,
+    baseEfficiency: 0,
+    outputItem: "item-raw-iron/1",
+
+    research: {
+        //Unlocked on: 1st sector
+        parent: "block-drill-stone-miner",
+        requirements: [
+            "item-wood/100",
+            "item-stone/120"
+        ]
+    },
+
+    requirements: [
+        "item-wood/40",
+        "item-stone/75"
+    ],
+
+    drawer: [
+        {
+            type: "DrawDefault"
+        },
+        {
+            type: "DrawRegion",
+            suffix: "-rotator",
+            rotateSpeed: 1
+        },
+        {
+            type: "DrawRegion",
+            suffix: "-top"
+        }
+    ]
+}
