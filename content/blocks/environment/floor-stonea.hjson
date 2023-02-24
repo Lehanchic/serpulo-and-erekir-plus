@@ -1,6 +1,0 @@
-{
-    type: "Floor",
-    wall: "wall-stonea",
-    itemDrop: "item-stone",
-    variants: 3
-}

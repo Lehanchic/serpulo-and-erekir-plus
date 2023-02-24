@@ -1,5 +1,0 @@
-{
-    type: "Floor",
-    itemDrop: "item-raw-iron",
-    variants: 3
-}
