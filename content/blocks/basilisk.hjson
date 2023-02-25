@@ -29,7 +29,14 @@ type: DrawTurret
 basePrefix: "tantros-"
 }
 category: turret
-research: pressure
+research: 
+    parent: lancer
+    requirements: [
+    beryllium/3000
+    titanium/1650
+    silicon/500
+]
+    
 requirements: [
     beryllium/300
     titanium/165
