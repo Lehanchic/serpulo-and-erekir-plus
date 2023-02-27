@@ -31,7 +31,12 @@ basePrefix: "tantros-"
 category: turret
 research: lancer
 requirements: [
-    beryllium/300
+    beryllium/3000
+    titanium/1650
+    silicon/500
+]
+requirements: [
     titanium/165
+    graphite/100
     silicon/50
 ]
