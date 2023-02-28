@@ -1,0 +1,16 @@
+{
+ "type": "material",
+ "name": "Titanium surge alloy",
+ "description": "Wow"
+"explosiveness":0,
+ "flammability":0,
+ "radioactivity":0.03,
+ "charge":0.65,
+"research": {
+        "parent": "surge-alloy"
+}
+ "hardness": 3,
+ "cost": 2.0
+ "color": "900020",
+ "tier": 2
+}
