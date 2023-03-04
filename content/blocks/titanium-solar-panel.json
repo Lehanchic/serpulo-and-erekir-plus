@@ -8,7 +8,7 @@
 	"hasPower": true,
 	"powerProduction": 3.5,
 	"requirements": [
-		{ "item": "titanium", "amount": 500},
+		{ "item": "titanium-surge-alloy", "amount": 500},
 		{ "item": "grafite", "amount": 30}
 	],
 	"category": "power",
