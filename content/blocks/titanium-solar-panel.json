@@ -1,0 +1,17 @@
+##CREATED BY Dio/Дио (my friend)
+
+{
+	"name": "Titanium solar panel",
+	"description": "Mega solar panel!",
+	"type": "SolarGenerator",
+	"health": 750,
+	"size": 4,
+	"hasPower": true,
+	"powerProduction": 3.5,
+	"requirements": [
+		{ "item": "titanium", "amount": 500},
+		{ "item": "grafite", "amount": 30}
+	],
+	"category": "power",
+	"research": "solar-panel"
+}
