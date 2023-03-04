@@ -1,6 +1,6 @@
 {
 	"name": "Titanium solar panel",
-	"description": "Mega solar panel!",
+	"description": "Mega powerful panel!",
 	"type": "SolarGenerator",
 	"health": 750,
 	"size": 4,
