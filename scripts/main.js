@@ -1,1 +1,2 @@
-print("Hello world!")
+##CREATED BY Dio/Дио (my friend):
+titanium-solar-panel
