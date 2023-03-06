@@ -1,6 +1,6 @@
-name: "[#999900]CommandBlock"
+name: "[#999900]CommandBlock [#ff0000][Cheat]"
+alwaysUnlocked:true
 category: effect
 requirements:[
 ]
-research: micro-processor
-sandboxOnly: true
+research: cheat-wall
