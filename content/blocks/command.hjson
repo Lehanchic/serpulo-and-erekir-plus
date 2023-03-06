@@ -1,0 +1,6 @@
+name: "[#999900]CommandBlock"
+category: effect
+requirements:[
+]
+research: micro-processor
+sandboxOnly: true
