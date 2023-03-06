@@ -1,3 +1,4 @@
-##CREATED BY Dio/Дио (my friend):
-#code:
-titanium-solar-panel
+//Block
+require("blocks/command");
+
+print("Serpulo and Erekir + by Lehanchic25");
