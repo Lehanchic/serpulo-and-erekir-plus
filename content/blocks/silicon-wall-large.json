@@ -1,17 +1,17 @@
 {
- "name": "Silicon Wall",
+ "name": "Silicon Wall Large",
  "description": "Protects buildings from enemy projectiles",
  "type": "Wall",
- "health": 380,
- "size": 1
+ "health": 1580,
+ "size": 2
  "requirements": [
-     "silicon/6"
+     "silicon/24"
  ],
  "category": "defense",
  "research": { 
-      "parent": "copper-wall-large",
+      "parent": "silicon-wall",
       "requirements": [
-         "silicon/120"
+         "silicon/400"
  ]
 }
 }
