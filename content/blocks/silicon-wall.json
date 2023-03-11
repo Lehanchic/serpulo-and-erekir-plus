@@ -8,7 +8,8 @@
      "silicon/24"
  ],
  "category": "defense",
- "research": { "copper-wall-large",
+ "research": { 
+      "parent": "copper-wall-large",
       "requirements": [
          "silicon/400"
  ]
