@@ -4,6 +4,6 @@ subtitle: Hello world!
 description: "English: [red]Adds new items, buildings, liquids to serpulo and erekir.
 [white]Russian: [red]Добавляет новые предметы, постройки, жидкости для серпуло и эрекир."
 author: "Leha[#0000ff]nch[#ff1826]ic25, Dio/Дио"
-version: "alfa 0.0.6"
+version: "alfa 0.0.6.5"
 minGameVersion: 136
 hidden: true
