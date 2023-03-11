@@ -1,7 +1,7 @@
 
 name: Omega Out Post
 planet: erekir
-sector: 5
+sector: 6
 difficulty: 7
 research: {
 parent: intersect
