@@ -6,7 +6,12 @@
   "hasBoost": false,
   "speedBoost": 1.15,
   "reload": 1,
-  "research": "mod-gate-effect",
+  "research": "force-projector"
+       "requirements": [
+       "lead/2500",
+       "titanium/2000",
+       "silicon/1500"
+]
   "category": "effect",
   "consumes": {
     "power": 1.25
