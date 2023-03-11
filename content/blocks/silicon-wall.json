@@ -5,7 +5,7 @@
  "health": 3000,
  "size": 2
  "requirements": [
-    {"item": "silicon", "amount": 24 }
+     "silicon/24"
  ],
  "category": "defense",
  "research": "copper-wall-large",
