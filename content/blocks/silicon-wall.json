@@ -14,5 +14,8 @@
     {"item": "silicon", "amount": 24 }
  ],
  "category": "defense",
- "research": "router"
+ "research": "copper-wall-large",
+      "requirements": [
+    {"item": "silicon", "amount": 400 }
+]
 }
