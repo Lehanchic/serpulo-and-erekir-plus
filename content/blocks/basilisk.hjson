@@ -27,12 +27,10 @@ ammoTypes: {
 
 consumes: {
 liquid: {
-liquid: water
-amount: 0.1
-update: false
+liquid: rainbow-liquid
+amount: 0.05
 booster: true
-optional: true
-},
+}
 power: 7
 }
 drawer: {
