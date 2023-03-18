@@ -24,7 +24,6 @@ ammoTypes: {
     height: 11
    }
 }
-}
 
 consumes: {
 coolant: {
