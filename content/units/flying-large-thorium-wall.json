@@ -1,0 +1,11 @@
+{
+  "type": "flying",
+  "flying": true,
+  "localizedName": "Flying Large Thorium Wall",
+  "speed": 2,
+  "health": 3200,
+  "weapons": [ ],
+  "research": "flying-small-thorium-wall",
+  "engineOffset": 8,
+  "drawCell": false
+}

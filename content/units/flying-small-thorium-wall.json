@@ -1,0 +1,10 @@
+{
+  "type": "flying",
+  "flying": true,
+  "localizedName": "Flying Thorium Wall",
+  "speed": 1,
+  "health": 800,
+  "weapons": [ ],
+  "research": "flying-healer",
+  "drawCell": false
+}
