@@ -24,16 +24,16 @@ plans: [
 {
       unit: flying-large-thorium-wall
       requirements: [
-        thorium/6
+        thorium/24
       ],
-      time: 80
+      time: 230
     },
 {
       unit: flying-small-thorium-wall
       requirements: [
-        thorium/24
+        thorium/6
       ],
-      time: 230
+      time: 80
     },
   ]
 
