@@ -27,12 +27,11 @@ ammoTypes: {
 
 
 consumes: {
-liquid: {
-liquid: rainbow-liquid
-amount: 0.05
-update: false
-booster: true
-optional: true
+coolant: {
+amount: 0.05 
+    },
+    power: 7
+  }
 }
 }
 drawer: {
