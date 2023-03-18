@@ -27,11 +27,14 @@ ammoTypes: {
 
 consumes: {
 liquid: {
-liquid: rainbow-liquid
-amount: 0.05 
-    },
-    power: 7
-  }
+liquid: water
+amount: 0.1
+update: false
+booster: true
+optional: true
+},
+power: 7
+}
 drawer: {
 type: DrawTurret
 basePrefix: "tantros-"
