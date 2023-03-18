@@ -31,7 +31,6 @@ amount: 0.05
     },
     power: 7
   }
-}
 drawer: {
 type: DrawTurret
 basePrefix: "tantros-"
