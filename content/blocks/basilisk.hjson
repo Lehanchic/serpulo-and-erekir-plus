@@ -26,7 +26,8 @@ ammoTypes: {
 }
 
 consumes: {
-coolant: {
+liquid: {
+liquid: rainbow-liquid
 amount: 0.05 
     },
     power: 7
